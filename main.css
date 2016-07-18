@@ -1,0 +1,139 @@
+@import url(https://fonts.googleapis.com/css?family=Rokkitt:700);
+
+html, body{
+    
+font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+}
+#theBody{
+   background-color: darkslateblue;
+    text-align: center;
+    margin: -20px 0 0 0;
+    padding:0;
+    height: 100%;
+}
+#headerDiv{
+     padding-top: 20px;
+     margin-top: 20px;
+        
+}
+#languageOptions{
+    margin-top: 20px;
+    font-weight: 600;
+    font-size:14px;
+    box-shadow: 16px 14px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 24px;    
+    width: 400px;
+    color:white;
+    text-decoration: blueviolet;
+  }
+
+#randomDiv, #searchDiv{
+    color: white;
+    font-weight: 900;
+    font-stretch: extra-expanded;
+    vertical-align: bottom;
+    height:60px;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+a:hover{
+       background-color:white;
+          padding-left: 20px;   
+          padding-right: 20px;
+          text-decoration: darkslateblue;
+          
+       }
+       
+       #randomDiv h3 a:hover{
+           background-color:darkslateblue;
+           text-decoration: white;
+       }
+           
+       
+input{
+    font-size: 12px;
+    width: 360px;
+    height:35px;
+    text-align: center;
+    padding:0;
+    padding-left:10px;
+    border:3px solid white;
+    border-radius:35px;
+    background-color: darkslateblue;
+}
+#searchDiv h3{
+    display:inline;
+    vertical-align: middle;
+}        
+
+.status{
+    color:white;
+    text-align:center;
+    border-radius: 6px;
+    padding: 6px;
+    font-size: 14px;
+}
+       
+ 
+.buttonDiv{
+            width:100%;
+            margin-bottom:30px;
+            display: none;
+        }
+
+#leftBtn  {    
+    color:white;
+    font-size:18px;
+    border:white solid 1px;
+    border-radius:3px;
+    padding:4px;
+    margin-top:10px;
+    margin-bottom: 30px;
+    margin-left: 90px;
+}
+#rightBtn  {
+     color:white;
+    font-size:18px;
+    border:white solid 1px;
+    border-radius:3px;
+    padding:4px;
+    margin-top:10px;
+    margin-bottom: 30px;
+    margin-right: 90px;
+}
+
+.info{
+    text-align: justify;
+    padding: 1px 35px 15px;
+    margin: 15px 90px;
+    background-color: azure;
+    color: darkslateblue;
+    font-weight:600;
+    font-stretch: extra-expanded;
+    border-radius: 3px;
+    box-shadow: 16px 12px 8px 0px rgba(0,0,0,0.5);
+      }
+   
+   .info h4{
+       padding-bottom: 10px;
+   }
+        
+        .urls{
+            background-color: darkslateblue;
+            display: inline;
+            border-radius: 4px;
+            padding: 6px;
+            margin: 20px 15px 0px 0;
+            margin-left:auto;
+            color:white;
+        }
+        
+        button{
+           background-color: darkslateblue;
+            border-width:0;
+            border-color: darkslateblue;
+        }
