@@ -32,7 +32,7 @@ $(document).ready( function()
 </script>
 
 </head> 
-    
+	
 <body>
         <div id ="theBody">
         <div id = "headerDiv">
@@ -40,21 +40,21 @@ $(document).ready( function()
         </div>
             <div id = "randomDiv"><h3><a  style = "color: white" href="https://en.wikipedia.org/wiki/Special:Random" target = "_blank">Random</a> <span class ="fa fa-search"></span></h3></div>
          <div id = "searchDiv">
-             <input id ="box" type="text"  name ='searchStr' autocomplete="on" maxlength="50"  placeholder='Search Wikipedia' onkeypress="KeyPress(event)"><h3>&nbsp;<button><span class ="fa fa-search" onclick="getData(0)"></span></button></h3>
+             <input id ="box" type="text"  name ='searchStr' autocomplete="on" maxlength="50"  placeholder='Search Wikipedia' onkeypress="KeyPress(event)"><h3>&nbsp;<button class="Button" onclick="getData(0)"><span class ="fa fa-search" ></span></button></h3>
          </div>
            
             <div class ="buttonDiv">
-                                                            <button id = "leftBtn"><span class ="fa fa-arrow-left" onclick="getData(-1)"></span></button>
+                                                            <button id = "leftBtn" class="Button" onclick="getData(-1)"><span class ="fa fa-arrow-left" ></span></button>
                                                             <span class = "status"></span>
-                                                            <button id = "rightBtn"><span class ="fa fa-arrow-right" onclick="getData(1)"></span></button>
+                                                            <button id = "rightBtn" class="Button" onclick="getData(1)"><span class ="fa fa-arrow-right"></span></button>
             </div>
             
         <div id = 'data' ></div>
         
         <div class ="buttonDiv">
-                                                            <button id = "leftBtn"><span class ="fa fa-arrow-left" onclick="getData(-1)"></span></button>
+                                                            <button id = "leftBtn" class="Button" onclick="getData(-1)"><span class ="fa fa-arrow-left" ></span></button>
                                                             <span class = "status"></span>
-                                                            <button id = "rightBtn"><span class ="fa fa-arrow-right" onclick="getData(1)"></span></button>
+                                                            <button id = "rightBtn" class="Button" onclick="getData(1)"><span class ="fa fa-arrow-right" ></span></button>
 
         </div>
         
