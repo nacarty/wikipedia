@@ -1,0 +1,1617 @@
+{"langlinks": [
+                    {
+                        "lang": "aa",
+                        "langname": "Afar",
+                        "autonym": "Qaf\u00e1r af",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ab",
+                        "langname": "Abkhazian",
+                        "autonym": "\u0410\u04a7\u0441\u0448\u04d9\u0430",
+                        "*": "\u0410\u0432\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430"
+                    },
+                    {
+                        "lang": "ace",
+                        "langname": "Achinese",
+                        "autonym": "Ac\u00e8h",
+                        "*": "Wikip\u00e8dia"
+                    },
+                    {
+                        "lang": "ady",
+                        "langname": "Adyghe",
+                        "autonym": "\u0430\u0434\u044b\u0433\u0430\u0431\u0437\u044d",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0435"
+                    },
+                    {
+                        "lang": "af",
+                        "langname": "Afrikaans",
+                        "autonym": "Afrikaans",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ak",
+                        "langname": "Akan",
+                        "autonym": "Akan",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "als",
+                        "langname": "Alemannisch",
+                        "autonym": "Alemannisch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "am",
+                        "langname": "Amharic",
+                        "autonym": "\u12a0\u121b\u122d\u129b",
+                        "*": "\u12cd\u12ad\u1354\u12f2\u12eb"
+                    },
+                    {
+                        "lang": "an",
+                        "langname": "Aragonese",
+                        "autonym": "aragon\u00e9s",
+                        "*": "Biquipedia"
+                    },
+                    {
+                        "lang": "ang",
+                        "langname": "Old English",
+                        "autonym": "\u00c6nglisc",
+                        "*": "Wikip\u01e3dia"
+                    },
+                    {
+                        "lang": "ar",
+                        "langname": "Arabic",
+                        "autonym": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                        "*": "\u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627"
+                    },
+                    {
+                        "lang": "arc",
+                        "langname": "Aramaic",
+                        "autonym": "\u0710\u072a\u0721\u071d\u0710",
+                        "*": "\u0718\u071d\u0729\u071d\u0726\u0715\u071d\u0710"
+                    },
+                    {
+                        "lang": "arz",
+                        "langname": "Egyptian Arabic",
+                        "autonym": "\u0645\u0635\u0631\u0649",
+                        "*": "\u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627"
+                    },
+                    {
+                        "lang": "as",
+                        "langname": "Assamese",
+                        "autonym": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be",
+                        "*": "\u09f1\u09bf\u0995\u09bf\u09aa\u09bf\u09a1\u09bf\u09af\u09bc\u09be"
+                    },
+                    {
+                        "lang": "ast",
+                        "langname": "Asturian",
+                        "autonym": "asturianu",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "av",
+                        "langname": "Avaric",
+                        "autonym": "\u0430\u0432\u0430\u0440",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "ay",
+                        "langname": "Aymara",
+                        "autonym": "Aymar aru",
+                        "*": "Wikipidiya"
+                    },
+                    {
+                        "lang": "az",
+                        "langname": "Azerbaijani",
+                        "autonym": "az\u0259rbaycanca",
+                        "*": "Vikipediya"
+                    },
+                    {
+                        "lang": "azb",
+                        "langname": "\u062a\u06c6\u0631\u06a9\u062c\u0647",
+                        "autonym": "\u062a\u06c6\u0631\u06a9\u062c\u0647",
+                        "*": "\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627"
+                    },
+                    {
+                        "lang": "ba",
+                        "langname": "Bashkir",
+                        "autonym": "\u0431\u0430\u0448\u04a1\u043e\u0440\u0442\u0441\u0430",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "bar",
+                        "langname": "Bavarian",
+                        "autonym": "Boarisch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "bat-smg",
+                        "langname": "Samogitian",
+                        "autonym": "\u017eemait\u0117\u0161ka",
+                        "*": "Vikiped\u0117j\u0117"
+                    },
+                    {
+                        "lang": "bcl",
+                        "langname": "Bikol Central",
+                        "autonym": "Bikol Central",
+                        "*": "Wikipidya"
+                    },
+                    {
+                        "lang": "be",
+                        "langname": "Belarusian",
+                        "autonym": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f",
+                        "*": "\u0412\u0456\u043a\u0456\u043f\u0435\u0434\u044b\u044f"
+                    },
+                    {
+                        "lang": "be-x-old",
+                        "langname": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\u200e",
+                        "autonym": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f (\u0442\u0430\u0440\u0430\u0448\u043a\u0435\u0432\u0456\u0446\u0430)\u200e",
+                        "*": "\u0412\u0456\u043a\u0456\u043f\u044d\u0434\u044b\u044f"
+                    },
+                    {
+                        "lang": "bg",
+                        "langname": "Bulgarian",
+                        "autonym": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438",
+                        "*": "\u0423\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "bh",
+                        "langname": "\u092d\u094b\u091c\u092a\u0941\u0930\u0940",
+                        "autonym": "\u092d\u094b\u091c\u092a\u0941\u0930\u0940",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "bi",
+                        "langname": "Bislama",
+                        "autonym": "Bislama",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "bjn",
+                        "langname": "Banjar",
+                        "autonym": "Bahasa Banjar",
+                        "*": "Wikipidia"
+                    },
+                    {
+                        "lang": "bm",
+                        "langname": "Bambara",
+                        "autonym": "bamanankan",
+                        "*": "Wikipedi"
+                    },
+                    {
+                        "lang": "bn",
+                        "langname": "Bengali",
+                        "autonym": "\u09ac\u09be\u0982\u09b2\u09be",
+                        "*": "\u0989\u0987\u0995\u09bf\u09aa\u09bf\u09a1\u09bf\u09af\u09bc\u09be"
+                    },
+                    {
+                        "lang": "bo",
+                        "langname": "Tibetan",
+                        "autonym": "\u0f56\u0f7c\u0f51\u0f0b\u0f61\u0f72\u0f42",
+                        "*": "\u0f63\u0fa6\u0f7a\u0f0b\u0f41\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f0b\u0f58\u0f5b\u0f7c\u0f51"
+                    },
+                    {
+                        "lang": "bpy",
+                        "langname": "Bishnupriya",
+                        "autonym": "\u09ac\u09bf\u09b7\u09cd\u09a3\u09c1\u09aa\u09cd\u09b0\u09bf\u09af\u09bc\u09be \u09ae\u09a3\u09bf\u09aa\u09c1\u09b0\u09c0",
+                        "*": "\u0989\u0987\u0995\u09bf\u09aa\u09bf\u09a1\u09bf\u09af\u09bc\u09be"
+                    },
+                    {
+                        "lang": "br",
+                        "langname": "Breton",
+                        "autonym": "brezhoneg",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "bs",
+                        "langname": "Bosnian",
+                        "autonym": "bosanski",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "bug",
+                        "langname": "Buginese",
+                        "autonym": "\u1a05\u1a14 \u1a15\u1a18\u1a01\u1a17",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "bxr",
+                        "langname": "\u0431\u0443\u0440\u044f\u0430\u0434",
+                        "autonym": "\u0431\u0443\u0440\u044f\u0430\u0434",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u044d\u0434\u0438"
+                    },
+                    {
+                        "lang": "ca",
+                        "langname": "Catalan",
+                        "autonym": "catal\u00e0",
+                        "*": "Viquip\u00e8dia"
+                    },
+                    {
+                        "lang": "cbk-zam",
+                        "langname": "Chavacano de Zamboanga",
+                        "autonym": "Chavacano de Zamboanga",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "cdo",
+                        "langname": "Min Dong Chinese",
+                        "autonym": "M\u00ecng-d\u0115\u0324ng-ng\u1e73\u0304",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ce",
+                        "langname": "Chechen",
+                        "autonym": "\u043d\u043e\u0445\u0447\u0438\u0439\u043d",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438"
+                    },
+                    {
+                        "lang": "ceb",
+                        "langname": "Cebuano",
+                        "autonym": "Cebuano",
+                        "*": "Wikipedya"
+                    },
+                    {
+                        "lang": "ch",
+                        "langname": "Chamorro",
+                        "autonym": "Chamoru",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "chr",
+                        "langname": "Cherokee",
+                        "autonym": "\u13e3\u13b3\u13a9",
+                        "*": "\u13eb\u13a9\u13c7\u13d7\u13ef"
+                    },
+                    {
+                        "lang": "chy",
+                        "langname": "Cheyenne",
+                        "autonym": "Tsets\u00eahest\u00e2hese",
+                        "*": "Vekepete'a"
+                    },
+                    {
+                        "lang": "ckb",
+                        "langname": "Central Kurdish",
+                        "autonym": "\u06a9\u0648\u0631\u062f\u06cc\u06cc \u0646\u0627\u0648\u06d5\u0646\u062f\u06cc",
+                        "*": "\u0648\u06cc\u06a9\u06cc\u067e\u06cc\u062f\u06cc\u0627"
+                    },
+                    {
+                        "lang": "co",
+                        "langname": "Corsican",
+                        "autonym": "corsu",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "crh",
+                        "langname": "Crimean Turkish",
+                        "autonym": "q\u0131r\u0131mtatarca",
+                        "*": "Vikipediya"
+                    },
+                    {
+                        "lang": "cs",
+                        "langname": "Czech",
+                        "autonym": "\u010de\u0161tina",
+                        "*": "Wikipedie"
+                    },
+                    {
+                        "lang": "csb",
+                        "langname": "Kashubian",
+                        "autonym": "kasz\u00ebbsczi",
+                        "*": "Wikipedij\u00f4"
+                    },
+                    {
+                        "lang": "cu",
+                        "langname": "Church Slavic",
+                        "autonym": "\u0441\u043b\u043e\u0432\u0463\u043d\u044c\u0441\u043a\u044a / \u2c14\u2c0e\u2c11\u2c02\u2c21\u2c10\u2c20\u2c14\u2c0d\u2c1f",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0454\u0434\u0457\ua657"
+                    },
+                    {
+                        "lang": "cv",
+                        "langname": "Chuvash",
+                        "autonym": "\u0427\u04d1\u0432\u0430\u0448\u043b\u0430",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438"
+                    },
+                    {
+                        "lang": "cy",
+                        "langname": "Welsh",
+                        "autonym": "Cymraeg",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "da",
+                        "langname": "Danish",
+                        "autonym": "dansk",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "de",
+                        "langname": "German",
+                        "autonym": "Deutsch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "diq",
+                        "langname": "Zazaki",
+                        "autonym": "Zazaki",
+                        "*": "Wikipediya"
+                    },
+                    {
+                        "lang": "dsb",
+                        "langname": "Lower Sorbian",
+                        "autonym": "dolnoserbski",
+                        "*": "Wikipedija"
+                    },
+                    {
+                        "lang": "dv",
+                        "langname": "Divehi",
+                        "autonym": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0784\u07a6\u0790\u07b0",
+                        "*": "\u0788\u07a8\u0786\u07a8\u0795\u07a9\u0791\u07a8\u0794\u07a7"
+                    },
+                    {
+                        "lang": "ee",
+                        "langname": "Ewe",
+                        "autonym": "e\u028begbe",
+                        "*": "Wikipi\u0256ia"
+                    },
+                    {
+                        "lang": "el",
+                        "langname": "Greek",
+                        "autonym": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+                        "*": "\u0392\u03b9\u03ba\u03b9\u03c0\u03b1\u03af\u03b4\u03b5\u03b9\u03b1"
+                    },
+                    {
+                        "lang": "eml",
+                        "langname": "Emiliano-Romagnolo",
+                        "autonym": "emili\u00e0n e rumagn\u00f2l",
+                        "*": "Wikipedia"
+                    },
+					{
+                        "lang": "en",
+                        "langname": "English",
+                        "autonym": "English",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "eo",
+                        "langname": "Esperanto",
+                        "autonym": "Esperanto",
+                        "*": "Vikipedio"
+                    },
+                    {
+                        "lang": "es",
+                        "langname": "Spanish",
+                        "autonym": "espa\u00f1ol",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "et",
+                        "langname": "Estonian",
+                        "autonym": "eesti",
+                        "*": "Vikipeedia"
+                    },
+                    {
+                        "lang": "eu",
+                        "langname": "Basque",
+                        "autonym": "euskara",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ext",
+                        "langname": "Extremaduran",
+                        "autonym": "estreme\u00f1u",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "fa",
+                        "langname": "Persian",
+                        "autonym": "\u0641\u0627\u0631\u0633\u06cc",
+                        "*": "\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627"
+                    },
+                    {
+                        "lang": "ff",
+                        "langname": "Fulah",
+                        "autonym": "Fulfulde",
+                        "*": "Wikipeediya"
+                    },
+                    {
+                        "lang": "fi",
+                        "langname": "Finnish",
+                        "autonym": "suomi",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "fiu-vro",
+                        "langname": "V\u00f5ro",
+                        "autonym": "V\u00f5ro",
+                        "*": "Vikipeedi\u00e4"
+                    },
+                    {
+                        "lang": "fo",
+                        "langname": "Faroese",
+                        "autonym": "f\u00f8royskt",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "fr",
+                        "langname": "French",
+                        "autonym": "fran\u00e7ais",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "frp",
+                        "langname": "Arpitan",
+                        "autonym": "arpetan",
+                        "*": "Vouiquip\u00e8dia"
+                    },
+                    {
+                        "lang": "frr",
+                        "langname": "Northern Frisian",
+                        "autonym": "Nordfriisk",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "fur",
+                        "langname": "Friulian",
+                        "autonym": "furlan",
+                        "*": "Vichipedie"
+                    },
+                    {
+                        "lang": "fy",
+                        "langname": "Western Frisian",
+                        "autonym": "Frysk",
+                        "*": "Wikipedy"
+                    },
+                    {
+                        "lang": "ga",
+                        "langname": "Irish",
+                        "autonym": "Gaeilge",
+                        "*": "Vicip\u00e9id"
+                    },
+                    {
+                        "lang": "gag",
+                        "langname": "Gagauz",
+                        "autonym": "Gagauz",
+                        "*": "Vikipediya"
+                    },
+                    {
+                        "lang": "gan",
+                        "langname": "Gan Chinese",
+                        "autonym": "\u8d1b\u8a9e",
+                        "*": "\u7dad\u57fa\u767e\u79d1"
+                    },
+                    {
+                        "lang": "gd",
+                        "langname": "Scottish Gaelic",
+                        "autonym": "G\u00e0idhlig",
+                        "*": "Uicipeid"
+                    },
+                    {
+                        "lang": "gl",
+                        "langname": "Galician",
+                        "autonym": "galego",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "gn",
+                        "langname": "Guarani",
+                        "autonym": "Ava\u00f1e'\u1ebd",
+                        "*": "Vikipet\u00e3"
+                    },
+                    {
+                        "lang": "gom",
+                        "langname": "Goan Konkani",
+                        "autonym": "\u0917\u094b\u0902\u092f\u091a\u0940 \u0915\u094b\u0902\u0915\u0923\u0940 / G\u00f5ychi Konknni",
+                        "*": "Wikipidia"
+                    },
+                    {
+                        "lang": "got",
+                        "langname": "Gothic",
+                        "autonym": "\ud800\udf32\ud800\udf3f\ud800\udf44\ud800\udf39\ud800\udf43\ud800\udf3a",
+                        "*": "\ud800\udf45\ud800\udf39\ud800\udf3a\ud800\udf39\ud800\udf40\ud800\udf30\ud800\udf39\ud800\udf33\ud800\udf3e\ud800\udf30"
+                    },
+                    {
+                        "lang": "gu",
+                        "langname": "Gujarati",
+                        "autonym": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0",
+                        "*": "\u0ab5\u0abf\u0a95\u0abf\u0aaa\u0ac0\u0aa1\u0abf\u0aaf\u0abe"
+                    },
+                    {
+                        "lang": "gv",
+                        "langname": "Manx",
+                        "autonym": "Gaelg",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ha",
+                        "langname": "Hausa",
+                        "autonym": "Hausa",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "hak",
+                        "langname": "Hakka Chinese",
+                        "autonym": "\u5ba2\u5bb6\u8a9e/Hak-k\u00e2-ng\u00ee",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "haw",
+                        "langname": "Hawaiian",
+                        "autonym": "Hawai\u02bbi",
+                        "*": "Wikipikia"
+                    },
+                    {
+                        "lang": "he",
+                        "langname": "Hebrew",
+                        "autonym": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+                        "*": "\u05d5\u05d9\u05e7\u05d9\u05e4\u05d3\u05d9\u05d4"
+                    },
+                    {
+                        "lang": "hi",
+                        "langname": "Hindi",
+                        "autonym": "\u0939\u093f\u0928\u094d\u0926\u0940",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "hr",
+                        "langname": "Croatian",
+                        "autonym": "hrvatski",
+                        "*": "Wikipedija"
+                    },
+                    {
+                        "lang": "hsb",
+                        "langname": "Upper Sorbian",
+                        "autonym": "hornjoserbsce",
+                        "*": "Wikipedija"
+                    },
+                    {
+                        "lang": "ht",
+                        "langname": "Haitian Creole",
+                        "autonym": "Krey\u00f2l ayisyen",
+                        "*": "Wikipedya"
+                    },
+                    {
+                        "lang": "hu",
+                        "langname": "Hungarian",
+                        "autonym": "magyar",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "hy",
+                        "langname": "Armenian",
+                        "autonym": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576",
+                        "*": "\u054e\u056b\u0584\u056b\u057a\u0565\u0564\u056b\u0561"
+                    },
+                    {
+                        "lang": "ia",
+                        "langname": "Interlingua",
+                        "autonym": "interlingua",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "id",
+                        "langname": "Indonesian",
+                        "autonym": "Bahasa Indonesia",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ie",
+                        "langname": "Interlingue",
+                        "autonym": "Interlingue",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ig",
+                        "langname": "Igbo",
+                        "autonym": "Igbo",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ik",
+                        "langname": "Inupiaq",
+                        "autonym": "I\u00f1upiak",
+                        "*": "Uiqipitia"
+                    },
+                    {
+                        "lang": "ilo",
+                        "langname": "Iloko",
+                        "autonym": "Ilokano",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "io",
+                        "langname": "Ido",
+                        "autonym": "Ido",
+                        "*": "Wikipedio"
+                    },
+                    {
+                        "lang": "is",
+                        "langname": "Icelandic",
+                        "autonym": "\u00edslenska",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "it",
+                        "langname": "Italian",
+                        "autonym": "italiano",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "iu",
+                        "langname": "Inuktitut",
+                        "autonym": "\u1403\u14c4\u1483\u144e\u1450\u1466/inuktitut",
+                        "*": "\u1405\u1403\u146d\u1431\u144e\u140a"
+                    },
+                    {
+                        "lang": "ja",
+                        "langname": "Japanese",
+                        "autonym": "\u65e5\u672c\u8a9e",
+                        "*": "\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2"
+                    },
+                    {
+                        "lang": "jam",
+                        "langname": "Jamaican Creole English",
+                        "autonym": "Patois",
+                        "*": "Wikipidia"
+                    },
+                    {
+                        "lang": "jbo",
+                        "langname": "Lojban",
+                        "autonym": "la .lojban.",
+                        "*": "uikipidias"
+                    },
+                    {
+                        "lang": "jv",
+                        "langname": "Javanese",
+                        "autonym": "Basa Jawa",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "ka",
+                        "langname": "Georgian",
+                        "autonym": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8",
+                        "*": "\u10d5\u10d8\u10d9\u10d8\u10de\u10d4\u10d3\u10d8\u10d0"
+                    },
+                    {
+                        "lang": "kaa",
+                        "langname": "Kara-Kalpak",
+                        "autonym": "Qaraqalpaqsha",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "kab",
+                        "langname": "Kabyle",
+                        "autonym": "Taqbaylit",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ki",
+                        "langname": "Kikuyu",
+                        "autonym": "G\u0129k\u0169y\u0169",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "kk",
+                        "langname": "Kazakh",
+                        "autonym": "\u049b\u0430\u0437\u0430\u049b\u0448\u0430",
+                        "*": "\u0423\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "kl",
+                        "langname": "Kalaallisut",
+                        "autonym": "kalaallisut",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "km",
+                        "langname": "Khmer",
+                        "autonym": "\u1797\u17b6\u179f\u17b6\u1781\u17d2\u1798\u17c2\u179a",
+                        "*": "\u179c\u17b7\u1782\u17b8\u1797\u17b8\u178c\u17b6"
+                    },
+                    {
+                        "lang": "kn",
+                        "langname": "Kannada",
+                        "autonym": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+                        "*": "\u0cb5\u0cbf\u0c95\u0cbf\u0caa\u0cc0\u0ca1\u0cbf\u0caf"
+                    },
+                    {
+                        "lang": "ko",
+                        "langname": "Korean",
+                        "autonym": "\ud55c\uad6d\uc5b4",
+                        "*": "\uc704\ud0a4\ubc31\uacfc"
+                    },
+                    {
+                        "lang": "koi",
+                        "langname": "Komi-Permyak",
+                        "autonym": "\u041f\u0435\u0440\u0435\u043c \u041a\u043e\u043c\u0438",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "krc",
+                        "langname": "Karachay-Balkar",
+                        "autonym": "\u043a\u044a\u0430\u0440\u0430\u0447\u0430\u0439-\u043c\u0430\u043b\u043a\u044a\u0430\u0440",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "ks",
+                        "langname": "Kashmiri",
+                        "autonym": "\u0915\u0949\u0936\u0941\u0930 / \u06a9\u0672\u0634\u064f\u0631",
+                        "*": "\u0648\u06cc\u06a9\u06cc\u067e\u06cc\u0656\u0688\u06cc\u0627"
+                    },
+                    {
+                        "lang": "ksh",
+                        "langname": "Colognian",
+                        "autonym": "Ripoarisch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ku",
+                        "langname": "Kurdish",
+                        "autonym": "Kurd\u00ee",
+                        "*": "W\u00eek\u00eepediya"
+                    },
+                    {
+                        "lang": "kw",
+                        "langname": "Cornish",
+                        "autonym": "kernowek",
+                        "*": "Wikipedya"
+                    },
+                    {
+                        "lang": "ky",
+                        "langname": "Kyrgyz",
+                        "autonym": "\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430",
+                        "*": "\u0423\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "la",
+                        "langname": "Latin",
+                        "autonym": "Latina",
+                        "*": "Vicipaedia"
+                    },
+                    {
+                        "lang": "lad",
+                        "langname": "Ladino",
+                        "autonym": "Ladino",
+                        "*": "Vikipedya"
+                    },
+                    {
+                        "lang": "lb",
+                        "langname": "Luxembourgish",
+                        "autonym": "L\u00ebtzebuergesch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "lbe",
+                        "langname": "\u043b\u0430\u043a\u043a\u0443",
+                        "autonym": "\u043b\u0430\u043a\u043a\u0443",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "lez",
+                        "langname": "Lezghian",
+                        "autonym": "\u043b\u0435\u0437\u0433\u0438",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "lg",
+                        "langname": "Ganda",
+                        "autonym": "Luganda",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "li",
+                        "langname": "Limburgish",
+                        "autonym": "Limburgs",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "lij",
+                        "langname": "Ligurian",
+                        "autonym": "Ligure",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "lmo",
+                        "langname": "Lombard",
+                        "autonym": "lumbaart",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ln",
+                        "langname": "Lingala",
+                        "autonym": "ling\u00e1la",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "lo",
+                        "langname": "Lao",
+                        "autonym": "\u0ea5\u0eb2\u0ea7",
+                        "*": "\u0ea7\u0eb4\u0e81\u0eb4\u0e9e\u0eb5\u0ec0\u0e94\u0e8d"
+                    },
+                    {
+                        "lang": "lrc",
+                        "langname": "Northern Luri",
+                        "autonym": "\u0644\u06ca\u0631\u06cc \u0634\u0648\u0645\u0627\u0644\u06cc",
+                        "*": "\u0648\u06cc\u06a9\u06cc \u067e\u062f\u06cc\u0627"
+                    },
+                    {
+                        "lang": "lt",
+                        "langname": "Lithuanian",
+                        "autonym": "lietuvi\u0173",
+                        "*": "Vikipedija"
+                    },
+                    {
+                        "lang": "ltg",
+                        "langname": "Latgalian",
+                        "autonym": "latga\u013cu",
+                        "*": "Vikipedeja"
+                    },
+                    {
+                        "lang": "lv",
+                        "langname": "Latvian",
+                        "autonym": "latvie\u0161u",
+                        "*": "Vikip\u0113dija"
+                    },
+                    {
+                        "lang": "mai",
+                        "langname": "Maithili",
+                        "autonym": "\u092e\u0948\u0925\u093f\u0932\u0940",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u093f\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "map-bms",
+                        "langname": "Basa Banyumasan",
+                        "autonym": "Basa Banyumasan",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "mdf",
+                        "langname": "Moksha",
+                        "autonym": "\u043c\u043e\u043a\u0448\u0435\u043d\u044c",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0435"
+                    },
+                    {
+                        "lang": "mg",
+                        "langname": "Malagasy",
+                        "autonym": "Malagasy",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "mhr",
+                        "langname": "Eastern Mari",
+                        "autonym": "\u043e\u043b\u044b\u043a \u043c\u0430\u0440\u0438\u0439",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0439"
+                    },
+                    {
+                        "lang": "mi",
+                        "langname": "Maori",
+                        "autonym": "M\u0101ori",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "min",
+                        "langname": "Minangkabau",
+                        "autonym": "Baso Minangkabau",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "mk",
+                        "langname": "Macedonian",
+                        "autonym": "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0458\u0430"
+                    },
+                    {
+                        "lang": "ml",
+                        "langname": "Malayalam",
+                        "autonym": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+                        "*": "\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d2a\u0d40\u0d21\u0d3f\u0d2f"
+                    },
+                    {
+                        "lang": "mn",
+                        "langname": "Mongolian",
+                        "autonym": "\u043c\u043e\u043d\u0433\u043e\u043b",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430"
+                    },
+                    {
+                        "lang": "mo",
+                        "langname": "\u043c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u044f\u0441\u043a\u044d",
+                        "autonym": "\u043c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u044f\u0441\u043a\u044d",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "mr",
+                        "langname": "Marathi",
+                        "autonym": "\u092e\u0930\u093e\u0920\u0940",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "mrj",
+                        "langname": "Western Mari",
+                        "autonym": "\u043a\u044b\u0440\u044b\u043a \u043c\u0430\u0440\u044b",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438"
+                    },
+                    {
+                        "lang": "ms",
+                        "langname": "Malay",
+                        "autonym": "Bahasa Melayu",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "mt",
+                        "langname": "Maltese",
+                        "autonym": "Malti",
+                        "*": "Wikipedija"
+                    },
+                    {
+                        "lang": "mwl",
+                        "langname": "Mirandese",
+                        "autonym": "Mirand\u00e9s",
+                        "*": "Biquip\u00e9dia"
+                    },
+                    {
+                        "lang": "my",
+                        "langname": "Burmese",
+                        "autonym": "\u1019\u103c\u1014\u103a\u1019\u102c\u1018\u102c\u101e\u102c",
+                        "*": "\u101d\u102e\u1000\u102e\u1015\u102e\u1038\u1012\u102e\u1038\u101a\u102c\u1038"
+                    },
+                    {
+                        "lang": "myv",
+                        "langname": "Erzya",
+                        "autonym": "\u044d\u0440\u0437\u044f\u043d\u044c",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f\u0441\u044c"
+                    },
+                    {
+                        "lang": "mzn",
+                        "langname": "Mazanderani",
+                        "autonym": "\u0645\u0627\u0632\u0650\u0631\u0648\u0646\u06cc",
+                        "*": "\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627"
+                    },
+                    {
+                        "lang": "na",
+                        "langname": "Nauru",
+                        "autonym": "Dorerin Naoero",
+                        "*": "Wikipediya"
+                    },
+                    {
+                        "lang": "nah",
+                        "langname": "N\u0101huatl",
+                        "autonym": "N\u0101huatl",
+                        "*": "Huiquipedia"
+                    },
+                    {
+                        "lang": "nap",
+                        "langname": "Neapolitan",
+                        "autonym": "Napulitano",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "nds",
+                        "langname": "Low German",
+                        "autonym": "Plattd\u00fc\u00fctsch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "nds-nl",
+                        "langname": "Low Saxon",
+                        "autonym": "Nedersaksies",
+                        "*": "Wikipedie"
+                    },
+                    {
+                        "lang": "ne",
+                        "langname": "Nepali",
+                        "autonym": "\u0928\u0947\u092a\u093e\u0932\u0940",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u093f\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "new",
+                        "langname": "Newari",
+                        "autonym": "\u0928\u0947\u092a\u093e\u0932 \u092d\u093e\u0937\u093e",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u093f\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "ng",
+                        "langname": "Ndonga",
+                        "autonym": "Oshiwambo",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "nl",
+                        "langname": "Dutch",
+                        "autonym": "Nederlands",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "nn",
+                        "langname": "Norwegian Nynorsk",
+                        "autonym": "norsk nynorsk",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "no",
+                        "langname": "Norwegian",
+                        "autonym": "norsk bokm\u00e5l",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "nov",
+                        "langname": "Novial",
+                        "autonym": "Novial",
+                        "*": "Wikipedie"
+                    },
+                    {
+                        "lang": "nrm",
+                        "langname": "Nouormand",
+                        "autonym": "Nouormand",
+                        "*": "Viq\u00f9ip\u00e9die"
+                    },
+                    {
+                        "lang": "nso",
+                        "langname": "Northern Sotho",
+                        "autonym": "Sesotho sa Leboa",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "oc",
+                        "langname": "Occitan",
+                        "autonym": "occitan",
+                        "*": "Wikip\u00e8dia"
+                    },
+                    {
+                        "lang": "or",
+                        "langname": "Oriya",
+                        "autonym": "\u0b13\u0b21\u0b3c\u0b3f\u0b06",
+                        "*": "\u0b09\u0b07\u0b15\u0b3f\u0b2a\u0b3f\u0b21\u0b3c\u0b3f\u0b06"
+                    },
+                    {
+                        "lang": "os",
+                        "langname": "Ossetic",
+                        "autonym": "\u0418\u0440\u043e\u043d",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438"
+                    },
+                    {
+                        "lang": "pa",
+                        "langname": "Punjabi",
+                        "autonym": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40",
+                        "*": "\u0a35\u0a3f\u0a15\u0a40\u0a2a\u0a40\u0a21\u0a40\u0a06"
+                    },
+                    {
+                        "lang": "pag",
+                        "langname": "Pangasinan",
+                        "autonym": "Pangasinan",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pam",
+                        "langname": "Pampanga",
+                        "autonym": "Kapampangan",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pap",
+                        "langname": "Papiamento",
+                        "autonym": "Papiamentu",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pcd",
+                        "langname": "Picard",
+                        "autonym": "Picard",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "pdc",
+                        "langname": "Pennsylvania German",
+                        "autonym": "Deitsch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pfl",
+                        "langname": "Palatine German",
+                        "autonym": "P\u00e4lzisch",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pi",
+                        "langname": "Pali",
+                        "autonym": "\u092a\u093e\u0932\u093f",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "pih",
+                        "langname": "Norfuk / Pitkern",
+                        "autonym": "Norfuk / Pitkern",
+                        "*": "Wikkapedya"
+                    },
+                    {
+                        "lang": "pl",
+                        "langname": "Polish",
+                        "autonym": "polski",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pms",
+                        "langname": "Piedmontese",
+                        "autonym": "Piemont\u00e8is",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "pnb",
+                        "langname": "Western Punjabi",
+                        "autonym": "\u067e\u0646\u062c\u0627\u0628\u06cc",
+                        "*": "\u0648\u06a9\u06cc\u067e\u06cc\u0688\u06cc\u0627"
+                    },
+                    {
+                        "lang": "pnt",
+                        "langname": "Pontic",
+                        "autonym": "\u03a0\u03bf\u03bd\u03c4\u03b9\u03b1\u03ba\u03ac",
+                        "*": "\u0392\u03b9\u03ba\u03b9\u03c0\u03b1\u03af\u03b4\u03b5\u03b9\u03b1"
+                    },
+                    {
+                        "lang": "ps",
+                        "langname": "Pashto",
+                        "autonym": "\u067e\u069a\u062a\u0648",
+                        "*": "\u0648\u064a\u06a9\u064a\u067e\u06d0\u0689\u064a\u0627"
+                    },
+                    {
+                        "lang": "pt",
+                        "langname": "Portuguese",
+                        "autonym": "portugu\u00eas",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "qu",
+                        "langname": "Quechua",
+                        "autonym": "Runa Simi",
+                        "*": "Wikipidiya"
+                    },
+                    {
+                        "lang": "rm",
+                        "langname": "Romansh",
+                        "autonym": "rumantsch",
+                        "*": "Vichipedia"
+                    },
+                    {
+                        "lang": "rmy",
+                        "langname": "Romani",
+                        "autonym": "Romani",
+                        "*": "Vikipidiya"
+                    },
+                    {
+                        "lang": "ro",
+                        "langname": "Romanian",
+                        "autonym": "rom\u00e2n\u0103",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "roa-rup",
+                        "langname": "Aromanian",
+                        "autonym": "arm\u00e3neashti",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "roa-tara",
+                        "langname": "tarand\u00edne",
+                        "autonym": "tarand\u00edne",
+                        "*": "Uicchip\u00e8die"
+                    },
+                    {
+                        "lang": "ru",
+                        "langname": "Russian",
+                        "autonym": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "rue",
+                        "langname": "Rusyn",
+                        "autonym": "\u0440\u0443\u0441\u0438\u043d\u044c\u0441\u043a\u044b\u0439",
+                        "*": "\u0412\u0456\u043a\u0456\u043f\u0435\u0434\u0456\u044f"
+                    },
+                    {
+                        "lang": "sa",
+                        "langname": "Sanskrit",
+                        "autonym": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092e\u094d",
+                        "*": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e"
+                    },
+                    {
+                        "lang": "sah",
+                        "langname": "Sakha",
+                        "autonym": "\u0441\u0430\u0445\u0430 \u0442\u044b\u043b\u0430",
+                        "*": "\u0411\u0438\u043a\u0438\u043f\u0438\u044d\u0434\u044c\u0438\u0439\u044d"
+                    },
+                    {
+                        "lang": "sc",
+                        "langname": "Sardinian",
+                        "autonym": "sardu",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "scn",
+                        "langname": "Sicilian",
+                        "autonym": "sicilianu",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sco",
+                        "langname": "Scots",
+                        "autonym": "Scots",
+                        "*": "Wikipaedia"
+                    },
+                    {
+                        "lang": "sd",
+                        "langname": "Sindhi",
+                        "autonym": "\u0633\u0646\u068c\u064a",
+                        "*": "\u0648\u06aa\u064a\u067e\u064a\u068a\u064a\u0627"
+                    },
+                    {
+                        "lang": "se",
+                        "langname": "Northern Sami",
+                        "autonym": "s\u00e1megiella",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sg",
+                        "langname": "Sango",
+                        "autonym": "S\u00e4ng\u00f6",
+                        "*": "W\u00efk\u00efp\u00ead\u00efy\u00e4a"
+                    },
+                    {
+                        "lang": "sh",
+                        "langname": "Serbo-Croatian",
+                        "autonym": "srpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "si",
+                        "langname": "Sinhala",
+                        "autonym": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd",
+                        "*": "\u0dc0\u0dd2\u0d9a\u0dd2\u0db4\u0dd3\u0da9\u0dd2\u0dba\u0dcf"
+                    },
+                    {
+                        "lang": "simple",
+                        "langname": "Simple English",
+                        "autonym": "Simple English",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sk",
+                        "langname": "Slovak",
+                        "autonym": "sloven\u010dina",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "sl",
+                        "langname": "Slovenian",
+                        "autonym": "sloven\u0161\u010dina",
+                        "*": "Wikipedija"
+                    },
+                    {
+                        "lang": "sm",
+                        "langname": "Samoan",
+                        "autonym": "Gagana Samoa",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sn",
+                        "langname": "Shona",
+                        "autonym": "chiShona",
+                        "*": "Wikipedhiya"
+                    },
+                    {
+                        "lang": "so",
+                        "langname": "Somali",
+                        "autonym": "Soomaaliga",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sq",
+                        "langname": "Albanian",
+                        "autonym": "shqip",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sr",
+                        "langname": "Serbian",
+                        "autonym": "\u0441\u0440\u043f\u0441\u043a\u0438 / srpski",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0458\u0430"
+                    },
+                    {
+                        "lang": "srn",
+                        "langname": "Sranan Tongo",
+                        "autonym": "Sranantongo",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ss",
+                        "langname": "Swati",
+                        "autonym": "SiSwati",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "stq",
+                        "langname": "Saterland Frisian",
+                        "autonym": "Seeltersk",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "su",
+                        "langname": "Sundanese",
+                        "autonym": "Basa Sunda",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "sv",
+                        "langname": "Swedish",
+                        "autonym": "svenska",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "sw",
+                        "langname": "Swahili",
+                        "autonym": "Kiswahili",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "szl",
+                        "langname": "Silesian",
+                        "autonym": "\u015bl\u016fnski",
+                        "*": "Wikipedyjo"
+                    },
+                    {
+                        "lang": "ta",
+                        "langname": "Tamil",
+                        "autonym": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                        "*": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bbf\u0baf\u0bbe"
+                    },
+                    {
+                        "lang": "te",
+                        "langname": "Telugu",
+                        "autonym": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+                        "*": "\u0c35\u0c3f\u0c15\u0c40\u0c2a\u0c40\u0c21\u0c3f\u0c2f\u0c3e"
+                    },
+                    {
+                        "lang": "tet",
+                        "langname": "Tetum",
+                        "autonym": "tetun",
+                        "*": "Wikip\u00e9dia"
+                    },
+                    {
+                        "lang": "tg",
+                        "langname": "Tajik",
+                        "autonym": "\u0442\u043e\u04b7\u0438\u043a\u04e3",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0430"
+                    },
+                    {
+                        "lang": "th",
+                        "langname": "Thai",
+                        "autonym": "\u0e44\u0e17\u0e22",
+                        "*": "\u0e27\u0e34\u0e01\u0e34\u0e1e\u0e35\u0e40\u0e14\u0e35\u0e22"
+                    },
+                    {
+                        "lang": "ti",
+                        "langname": "Tigrinya",
+                        "autonym": "\u1275\u130d\u122d\u129b",
+                        "*": "\u12ca\u12aa\u1354\u12f2\u12eb"
+                    },
+                    {
+                        "lang": "tk",
+                        "langname": "Turkmen",
+                        "autonym": "T\u00fcrkmen\u00e7e",
+                        "*": "Wikipedi\u00fda"
+                    },
+                    {
+                        "lang": "tl",
+                        "langname": "Tagalog",
+                        "autonym": "Tagalog",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "tn",
+                        "langname": "Tswana",
+                        "autonym": "Setswana",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "tpi",
+                        "langname": "Tok Pisin",
+                        "autonym": "Tok Pisin",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "tr",
+                        "langname": "Turkish",
+                        "autonym": "T\u00fcrk\u00e7e",
+                        "*": "Vikipedi"
+                    },
+                    {
+                        "lang": "ts",
+                        "langname": "Tsonga",
+                        "autonym": "Xitsonga",
+                        "*": "Wikipediya"
+                    },
+                    {
+                        "lang": "tt",
+                        "langname": "Tatar",
+                        "autonym": "\u0442\u0430\u0442\u0430\u0440\u0447\u0430/tatar\u00e7a",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "tw",
+                        "langname": "Twi",
+                        "autonym": "Twi",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "ty",
+                        "langname": "Tahitian",
+                        "autonym": "reo tahiti",
+                        "*": "Vitipetia"
+                    },
+                    {
+                        "lang": "tyv",
+                        "langname": "Tuvinian",
+                        "autonym": "\u0442\u044b\u0432\u0430 \u0434\u044b\u043b",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "udm",
+                        "langname": "Udmurt",
+                        "autonym": "\u0443\u0434\u043c\u0443\u0440\u0442",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"
+                    },
+                    {
+                        "lang": "ug",
+                        "langname": "Uyghur",
+                        "autonym": "\u0626\u06c7\u064a\u063a\u06c7\u0631\u0686\u06d5 / Uyghurche",
+                        "*": "\u06cb\u0649\u0643\u0649\u067e\u06d0\u062f\u0649\u064a\u06d5"
+                    },
+                    {
+                        "lang": "uk",
+                        "langname": "Ukrainian",
+                        "autonym": "\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+                        "*": "\u0412\u0456\u043a\u0456\u043f\u0435\u0434\u0456\u044f"
+                    },
+                    {
+                        "lang": "ur",
+                        "langname": "Urdu",
+                        "autonym": "\u0627\u0631\u062f\u0648",
+                        "*": "\u0648\u06cc\u06a9\u06cc\u067e\u06cc\u0688\u06cc\u0627"
+                    },
+                    {
+                        "lang": "uz",
+                        "langname": "Uzbek",
+                        "autonym": "o\u02bbzbekcha/\u045e\u0437\u0431\u0435\u043a\u0447\u0430",
+                        "*": "Vikipediya"
+                    },
+                    {
+                        "lang": "ve",
+                        "langname": "Venda",
+                        "autonym": "Tshivenda",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "vec",
+                        "langname": "Venetian",
+                        "autonym": "v\u00e8neto",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "vep",
+                        "langname": "Veps",
+                        "autonym": "veps\u00e4n kel\u2019",
+                        "*": "Vikipedii"
+                    },
+                    {
+                        "lang": "vi",
+                        "langname": "Vietnamese",
+                        "autonym": "Ti\u1ebfng Vi\u1ec7t",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "vls",
+                        "langname": "West Flemish",
+                        "autonym": "West-Vlams",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "vo",
+                        "langname": "Volap\u00fck",
+                        "autonym": "Volap\u00fck",
+                        "*": "V\u00fckiped"
+                    },
+                    {
+                        "lang": "wa",
+                        "langname": "Walloon",
+                        "autonym": "walon",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "war",
+                        "langname": "Waray",
+                        "autonym": "Winaray",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "wo",
+                        "langname": "Wolof",
+                        "autonym": "Wolof",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "wuu",
+                        "langname": "Wu Chinese",
+                        "autonym": "\u5434\u8bed",
+                        "*": "\u7ef4\u57fa\u767e\u79d1"
+                    },
+                    {
+                        "lang": "xal",
+                        "langname": "Kalmyk",
+                        "autonym": "\u0445\u0430\u043b\u044c\u043c\u0433",
+                        "*": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438"
+                    },
+                    {
+                        "lang": "xh",
+                        "langname": "Xhosa",
+                        "autonym": "isiXhosa",
+                        "*": "Iwikipedia"
+                    },
+                    {
+                        "lang": "xmf",
+                        "langname": "Mingrelian",
+                        "autonym": "\u10db\u10d0\u10e0\u10d2\u10d0\u10da\u10e3\u10e0\u10d8",
+                        "*": "\u10d5\u10d8\u10d9\u10d8\u10de\u10d4\u10d3\u10d8\u10d0"
+                    },
+                    {
+                        "lang": "yi",
+                        "langname": "Yiddish",
+                        "autonym": "\u05d9\u05d9\u05b4\u05d3\u05d9\u05e9",
+                        "*": "\u05d5\u05d5\u05d9\u05e7\u05d9\u05e4\u05e2\u05d3\u05d9\u05e2"
+                    },
+                    {
+                        "lang": "yo",
+                        "langname": "Yoruba",
+                        "autonym": "Yor\u00f9b\u00e1",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "za",
+                        "langname": "Zhuang",
+                        "autonym": "Vahcuengh",
+                        "*": "Veizgiek Bakgoh"
+                    },
+                    {
+                        "lang": "zea",
+                        "langname": "Zeelandic",
+                        "autonym": "Ze\u00eauws",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "zh",
+                        "langname": "Chinese",
+                        "autonym": "\u4e2d\u6587",
+                        "*": "\u7ef4\u57fa\u767e\u79d1"
+                    },
+                    {
+                        "lang": "zh-classical",
+                        "langname": "Classical Chinese",
+                        "autonym": "\u6587\u8a00",
+                        "*": "\u7dad\u57fa\u5927\u5178"
+                    },
+                    {
+                        "lang": "zh-min-nan",
+                        "langname": "Chinese (Min Nan)",
+                        "autonym": "B\u00e2n-l\u00e2m-g\u00fa",
+                        "*": "Wikipedia"
+                    },
+                    {
+                        "lang": "zh-yue",
+                        "langname": "Cantonese",
+                        "autonym": "\u7cb5\u8a9e",
+                        "*": "\u7dad\u57fa\u767e\u79d1"
+                    },
+                    {
+                        "lang": "zu",
+                        "langname": "Zulu",
+                        "autonym": "isiZulu",
+                        "*": "Wikipedia"
+                    }
+                ]
+            }
