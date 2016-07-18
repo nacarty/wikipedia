@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Wikipedia Search</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel ="stylesheet" href="main.css">
+        <link href="main.css" rel="stylesheet" type="text/css"/>
+        <script src="https://use.fontawesome.com/14c67ebfb3.js"></script>  
+<!-- Latest compiled and minified CSS -->  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">  
+ <!-- Optional theme -->  
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">  
+<!-- Latest compiled and minified JavaScript -->  
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"> 
+</script>  
+   <script  src = "main.js"></script> 
+   <!--The following two files are for enabling SELECT2 features for searchable dropdown boxes, etc -->
+   <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready( function() 
+{
+      $("select").select2();
+    loadLanguages("en");
+}
+);
+</script>
+
+</head> 
+    
+<body>
+        <div id ="theBody">
+        <div id = "headerDiv">
+             <select id = "languageOptions" ></select>    
+        </div>
+            <div id = "randomDiv"><h3><a  style = "color: white" href="https://en.wikipedia.org/wiki/Special:Random" target = "_blank">Random</a> <span class ="fa fa-search"></span></h3></div>
+         <div id = "searchDiv">
+             <input id ="box" type="text"  name ='searchStr' autocomplete="on" maxlength="50"  placeholder='Search Wikipedia' onkeypress="KeyPress(event)"><h3>&nbsp;<button><span class ="fa fa-search" onclick="getData(0)"></span></button></h3>
+         </div>
+           
+            <div class ="buttonDiv">
+                                                            <button id = "leftBtn"><span class ="fa fa-arrow-left" onclick="getData(-1)"></span></button>
+                                                            <span class = "status"></span>
+                                                            <button id = "rightBtn"><span class ="fa fa-arrow-right" onclick="getData(1)"></span></button>
+            </div>
+            
+        <div id = 'data' ></div>
+        
+        <div class ="buttonDiv">
+                                                            <button id = "leftBtn"><span class ="fa fa-arrow-left" onclick="getData(-1)"></span></button>
+                                                            <span class = "status"></span>
+                                                            <button id = "rightBtn"><span class ="fa fa-arrow-right" onclick="getData(1)"></span></button>
+
+        </div>
+        
+        <script>
+            function KeyPress(event)
+            {
+                var x = event.which || event.keyCode;  //cross-browser. Some browsers do not recognize event.keyCode 
+                if   (x === 13)    //That means the enter key was pressed-->
+                    getData(0);
+            }
+        </script>
+                
+    </body>
+</html>
