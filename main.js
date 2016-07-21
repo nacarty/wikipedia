@@ -4,9 +4,31 @@ var globalFetches = 0;
 var globalObjArr = [];
 var globalDatasetNum = 0;  //no data as yet
 var globalLang = 'en';
+var globalTranslation = 'Search Wikipedia ';
  var str;
  var theUrl;
  var strField;
+ 
+ 
+ function KeyPress(event)
+{
+    var x = event.which || event.keyCode;  //cross-browser. Some browsers do not recognize event.keyCode 
+    if   (x === 13)    //That means the enter key was pressed-->
+        getData(0);
+}
+            
+function getLanguage(v)
+  {                                   
+      var List = $('option[value ='+ v+']');
+
+     globalTranslation = List[0].lang;
+     globalLang = List[0].value;
+     
+     $('[name = "searchStr"]').attr('placeholder', globalTranslation);
+     $('#randomLink').attr("href", "https://"+globalLang+".wikipedia.org/wiki/Special:Random");
+     $('#randomLink').html(globalTranslation);
+     
+  }
  
 function loadLanguages(langChoice)
 {
@@ -23,10 +45,10 @@ function loadLanguages(langChoice)
                             else 
                                 selected = '';
   
-                           op.append('<option  value = " '+ cur.lang+' "   '+selected+ '> '+cur.lang.toUpperCase()+'    -    '+cur.autonym.toLocaleUpperCase()+'    -    '+cur.langname+'  </option>') ;                            
+                           op.append('<option lang =  "'+ cur.wikipedia+'"    value = "'+ cur.lang+'"   '+selected+ '> '+cur.lang.toUpperCase()+'    -    '+cur.autonym.toLocaleUpperCase()+'    -    '+cur.langname+'  </option>') ;                            
+                      
                         });                      
-    });
-    
+    });   
 }
  
 function bubbleSort(Arr)
@@ -60,7 +82,7 @@ function displayData(dArr){
      
       str =   '<div  class = "info"><h2>'+cur.title+'</h2><h4>'+cur.extract+'</h4>'+
                   '<h6 class = "urls"><a href="'+cur.fullurl+'"  target = "_blank" >View file on Wikipedia</a></h6><h6 class = "urls"><a href="'+cur.editurl+'" target = "_blank">Edit file on Wikipedia</a></h6>'+
-                  '<h6 id = "time" class = "urls"> Edited: '+cur.touched+'</h6></div>';
+                  '<h6 id = "time" class = "urls"> Size: '+(cur.length/1000).toFixed(2)+' KB</h6></div>';
       
        dataSection.append(str);
        
@@ -77,7 +99,7 @@ function manipulateData(d)
     var objArr =[];  
      
     if (d.continue === undefined)
-        globalContinu += -1; //no extra data exists to retrieve
+        globalContinu = -1; //no extra data exists to retrieve
     else 
     {
         globalContinu = d.continue.gsroffset;
@@ -105,8 +127,7 @@ function getData(choice){      //i = 0, 1 or -1  for new search, right search an
  
      if (choice === 0)
     {
-        globalLang = $('#languageOptions').val().trim();
-        console.log('language code =', globalLang);
+        globalLang = $('#languageOptions').val().trim();                  
         globalDatasetNum = 1;  //dataset requested
         globalFetches = 0;
         globalContinu = 0;
@@ -130,7 +151,7 @@ function getData(choice){      //i = 0, 1 or -1  for new search, right search an
          else if  (globalDatasetNum < 1)
              globalDatasetNum = 1;
          else
-             globalDatasetNum += 0;
+             globalDatasetNum += 0;  //else no change
      }
      
    //HAVING SETUP THE GLOBAL VARIABLES, DETERMINE THE NEXT COURSE OF ACTION//  
@@ -164,7 +185,7 @@ function getData(choice){      //i = 0, 1 or -1  for new search, right search an
        
    } //if
    
-   else  if ( globalDatasetNum <= globalFetches )
+   else  if ( ( globalDatasetNum <= globalFetches )&&( globalDatasetNum > 0 ) )
    {
       var lowerBound = (globalDatasetNum - 1) * 10; 
       var upperBound = (globalDatasetNum  * 10);
