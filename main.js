@@ -4,7 +4,7 @@ var globalFetches = 0;
 var globalObjArr = [];
 var globalDatasetNum = 0;  //no data as yet
 var globalLang = 'en';
-var globalTranslation = 'Search Wikipedia ';
+var globalTranslation = 'Search Wikipedia';
  var str;
  var theUrl;
  var strField;
@@ -21,7 +21,7 @@ function getLanguage(v)
   {                                   
       var List = $('option[value ='+ v+']');
 
-     globalTranslation = List[0].lang;
+     globalTranslation = List[0].label;
      globalLang = List[0].value;
      
      $('[name = "searchStr"]').attr('placeholder', globalTranslation);
@@ -45,7 +45,7 @@ function loadLanguages(langChoice)
                             else 
                                 selected = '';
   
-                           op.append('<option lang =  "'+ cur.wikipedia+'"    value = "'+ cur.lang+'"   '+selected+ '> '+cur.lang.toUpperCase()+'    -    '+cur.autonym.toLocaleUpperCase()+'    -    '+cur.langname+'  </option>') ;                            
+                           op.append('<option label =  "'+ cur.wikipedia+'"    value = "'+ cur.lang+'"   '+selected+ '> '+cur.lang.toUpperCase()+'    -    '+cur.autonym.toLocaleUpperCase()+'    -    '+cur.langname+'  </option>') ;                            
                       
                         });                      
     });   
